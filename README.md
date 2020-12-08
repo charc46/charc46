@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
 <h3 align="center">A passionate full-stack developer from London</h3>
 
+- 🌱 I’m currently learning **React. As well as improving my Ruby on Rails skills**
+
 - 📫 How to reach me **charlie.crane46@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
