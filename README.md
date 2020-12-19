@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
-<h3 align="center">A passionate full-stack developer from London</h3>
+<h3 align="center">A full-stack developer from London.</h3>
 
-- 🌱 I’m currently learning **React. As well as improving my Ruby on Rails skills**
+- 🌱 I’m currently improving my **Javascript skills. As well as continuing to work with Ruby on Rails.**
 
 - 📫 How to reach me **charlie.crane46@gmail.com**
 
