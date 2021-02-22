@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
-<h3 align="center">A passionate full-stack developer from London</h3>
+<h3 align="center">A full-stack developer from London</h3>
 
 - 🔭 I’m currently working on **an investment portfolio tracker with a React front end and a Rails API on the back end.**
 
