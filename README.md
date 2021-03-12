@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an investment portfolio tracker with a React front end and a Rails API on the back end.**
 
-- 🌱 I’m currently learning **React/Redux. Having a sniff around full stack JS.**
+- 🌱 I’m currently learning **React/Redux. Also exploring working with full stack JS.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
