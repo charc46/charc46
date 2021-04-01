@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
 <h3 align="center">A full-stack developer from London</h3>
 
-- 🔭 I’m currently working on **an investment portfolio tracker with a React front end and a Rails API on the back end.**
-
-- 🌱 I’m currently learning **React/Redux. Also exploring working with full stack JS.**
+- 🌱 I’m currently learning getting to grips with **full stack JS**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
