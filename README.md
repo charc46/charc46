@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
 <h3 align="center">A full-stack developer from London</h3>
 
-- 🌱 I’m currently learning getting to grips with **full stack JS**.
+- 🌱 I’m currently getting to grips with **full stack JS**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
