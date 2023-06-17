@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Charlie</h1>
 <h3 align="center">A front-end developer from London</h3>
 
-I like building things with next.js
-I am also starting to develop an interest in automation with python
+- I like building things with next.js
+- I am also starting to develop an interest in automation with python
 
-I also love coffee
+- I also love coffee
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
